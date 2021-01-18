@@ -14,8 +14,8 @@
     "static/css/2.b544de60.chunk.css.map": "/static/css/2.b544de60.chunk.css.map",
     "static/css/main.bf391c91.chunk.css.map": "/static/css/main.bf391c91.chunk.css.map",
     "static/js/2.7d5fa871.chunk.js.LICENSE.txt": "/static/js/2.7d5fa871.chunk.js.LICENSE.txt",
-    "static/media/s.module.scss": "/static/media/s19.222aca34.png",
-    "static/media/logowhite.992f533e.png": "/static/media/logowhite.992f533e.png"
+    "static/media/s.module.scss": "static/media/s19.222aca34.png",
+    "static/media/logowhite.992f533e.png": "static/media/logowhite.992f533e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.101a2060.js",
