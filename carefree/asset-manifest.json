@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/carefree/static/css/main.176a774e.chunk.css",
-    "main.js": "/carefree/static/js/main.dc4de471.chunk.js",
-    "main.js.map": "/carefree/static/js/main.dc4de471.chunk.js.map",
+    "main.css": "/carefree/static/css/main.1e3b30f9.chunk.css",
+    "main.js": "/carefree/static/js/main.99155141.chunk.js",
+    "main.js.map": "/carefree/static/js/main.99155141.chunk.js.map",
     "runtime-main.js": "/carefree/static/js/runtime-main.e14d75d9.js",
     "runtime-main.js.map": "/carefree/static/js/runtime-main.e14d75d9.js.map",
     "static/css/2.b544de60.chunk.css": "/carefree/static/css/2.b544de60.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.da4e0bcd.chunk.js.map": "/carefree/static/js/3.da4e0bcd.chunk.js.map",
     "index.html": "/carefree/index.html",
     "static/css/2.b544de60.chunk.css.map": "/carefree/static/css/2.b544de60.chunk.css.map",
-    "static/css/main.176a774e.chunk.css.map": "/carefree/static/css/main.176a774e.chunk.css.map",
+    "static/css/main.1e3b30f9.chunk.css.map": "/carefree/static/css/main.1e3b30f9.chunk.css.map",
     "static/js/2.7d5fa871.chunk.js.LICENSE.txt": "/carefree/static/js/2.7d5fa871.chunk.js.LICENSE.txt",
     "static/media/s.module.scss": "/carefree/static/media/s19.222aca34.png",
     "static/media/logowhite.992f533e.png": "/carefree/static/media/logowhite.992f533e.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.e14d75d9.js",
     "static/css/2.b544de60.chunk.css",
     "static/js/2.7d5fa871.chunk.js",
-    "static/css/main.176a774e.chunk.css",
-    "static/js/main.dc4de471.chunk.js"
+    "static/css/main.1e3b30f9.chunk.css",
+    "static/js/main.99155141.chunk.js"
   ]
 }
